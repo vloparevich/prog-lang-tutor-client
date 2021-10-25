@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-(npx create-react-app prog-lang-tutor-client)
+(# npx create-react-app prog-lang-tutor-client)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
